@@ -1,7 +1,7 @@
 #### This is the responsive version of the old instaaboook ui
 #### Visit the website: https://react-instaaboook.netlify.app
 
-*You can route through the website by clicking the mentioned components
+### You can route through the website by clicking the mentioned components
   *Sign in/Register (route to sign in page)
   *Search (route you to the hotel list page)
   *See availability (route you to a particular hotel)
